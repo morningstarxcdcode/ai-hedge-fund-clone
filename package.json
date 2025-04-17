@@ -1,0 +1,11 @@
+{
+  "name": "ai-hedge-fund-clone",
+  "version": "1.0.0",
+  "description": "A clone of an AI hedge fund application.",
+  "main": "app.js",
+  "scripts": {
+    "start": "open index.html"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}

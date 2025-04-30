@@ -10,42 +10,33 @@ This project is a clone of an AI hedge fund application, featuring interactive d
 - User input form for data visualization
 
 ## Getting Started
-1. Clone the repository: 
+1. **Clone the repository**: 
    ```bash
    git clone https://github.com/morningstarxcdcode/ai-hedge-fund-clone.git
    ```
-2. Open `index.html`: Launch the application by opening the `index.html` file in your web browser.
-3. Enter Data: Use the input form to enter data you want to visualize.
-4. Submit Data: Click the "Submit" button to visualize the entered data.
-5. Fetch Data: Click the "Fetch Data" button to load additional data into the application.
+2. **Open `index.html`**: Launch the application by opening the `index.html` file in your web browser.
+3. **Enter Data**: Use the input form to enter data you want to visualize.
+4. **Submit Data**: Click the "Submit" button to visualize the entered data.
+5. **Fetch Data**: Click the "Fetch Data" button to load additional data into the application.
 
-## Step-by-Step Instructions in Various Languages
+## Step-by-Step Instructions
 
-### English
-1. Clone the repository.
-2. Open `index.html` in your browser.
-3. Enter your data in the input form.
-4. Click "Submit" to visualize the data.
-5. Click "Fetch Data" for more data.
+### How to Use the Application
+1. **Clone the repository**: This creates a local copy of the project on your computer.
+2. **Open `index.html`**: This is the main file that runs the application.
+3. **Enter your data**: Fill in the input form with the data you want to visualize.
+4. **Click "Submit"**: This will show you the visual representation of your data.
+5. **Click "Fetch Data"**: This will load more data for you to visualize.
 
-### Spanish (Español)
-1. Clona el repositorio.
-2. Abre `index.html` en tu navegador.
-3. Ingresa tus datos en el formulario de entrada.
-4. Haz clic en "Enviar" para visualizar los datos.
-5. Haz clic en "Obtener datos" para más datos.
-
-### French (Français)
-1. Clonez le dépôt.
-2. Ouvrez `index.html` dans votre navigateur.
-3. Entrez vos données dans le formulaire.
-4. Cliquez sur "Soumettre" pour visualiser les données.
-5. Cliquez sur "Obtenir des données" pour plus de données.
-
-## Visuals
+### Visual Examples
 ![User Input Form](assets/user-input-form.png) <!-- Add a relevant image here -->
+*Example of the user input form where you can enter your data.*
+
 ![Example Chart](assets/example-chart.png) <!-- Add a relevant image here -->
+*This is how the chart will look after you submit your data.*
+
 ![Loading Animation](assets/loading.gif) <!-- Add a relevant GIF here -->
+*This animation shows that data is being loaded.*
 
 ## Troubleshooting
 - If you encounter any issues, check the console for error messages.

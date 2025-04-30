@@ -1,9 +1,10 @@
 import Chart from 'chart.js/auto';
 
-const ctx = document.getElementById('myChart').getContext('2d');
-let myChart;
+const canvas = document.getElementById('myChart') as HTMLCanvasElement;
+const ctx = canvas.getContext('2d') as CanvasRenderingContext2D;
+let myChart: Chart | null = null;
 
-function createChart(data) {
+function createChart(data: { data: { date: string; value: number }[] }) {
     const labels = data.data.map(item => item.date);
     const values = data.data.map(item => item.value);
 
